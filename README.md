@@ -4,7 +4,7 @@ The notebooks in this repository each contain a convolutional neural network for
 
 ## datasets
 
-MNIST hand-written digits, found [here](http://yann.lecun.com/exdb/mnist/)
+MNIST hand-written digits, downloaded automatically in the notebook
 
 CIFAR-10 low-resolution images, found [here](https://www.cs.toronto.edu/~kriz/cifar.html)
 
