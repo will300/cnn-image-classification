@@ -10,4 +10,4 @@ CIFAR-10 low-resolution images, found [here](https://www.cs.toronto.edu/~kriz/ci
 
 ## modules
 
-Tensorflow 1.12.0; Numpy 1.16.0; Matplotlib 3.0.2
+Tensorflow 1.12.0; Numpy 1.16.0; Matplotlib 3.0.2, Keras 2.2.0
