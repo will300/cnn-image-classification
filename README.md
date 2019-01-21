@@ -4,9 +4,9 @@ The notebooks in this repository each contain a convolutional neural network for
 
 ## datasets
 
-MNIST hand-written digits, downloaded automatically in the notebook
+MNIST hand-written digits, downloaded automatically in the notebook.
 
-CIFAR-10 low-resolution images, found [here](https://www.cs.toronto.edu/~kriz/cifar.html)
+CIFAR-10 low-resolution images, found [here](https://www.cs.toronto.edu/~kriz/cifar.html). To be able to use these, download the zip file file for Python and unzip the individual train and test folders within the same directory as the notebook.
 
 ## modules
 
